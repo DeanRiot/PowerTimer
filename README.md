@@ -1,2 +1,2 @@
 # Sleeper
-puts the computer into hibernation mode on a timer
+puts the computer into suspend mode on a timer
